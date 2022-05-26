@@ -1,11 +1,6 @@
 
-### :man_technologist: About Me :
+### Hi there 👋
 
-- I am an information security specialist from Russia
-
-- I Am Engaged In Reverse Engineering
-
-- In my free time I read articles on habr
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tr3ble&label=Profile%20views&color=0e75b6&style=flat" alt="tr3ble" /> </p>
 
