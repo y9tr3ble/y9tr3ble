@@ -1,5 +1,7 @@
 
-### Hi there 👋
+<h1 align="center">Hi there, I'm Nikita</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 Kotlin Developer
 
@@ -10,7 +12,7 @@ Kotlin Developer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr3ble&theme=radical&layout=compact&langs_count=6)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tr3ble&hide=prs,issues,contribs&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tr3bleee&hide=prs,issues,contribs&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tr3ble&theme=radical" alt="tr3ble" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tr3bleee&theme=radical" alt="tr3bleee" /></p>
