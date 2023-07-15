@@ -1,18 +1,19 @@
+**Welcome to <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" width="65px"/> developer page**
+ 
+```kotlin
+fun aboutMe() {
+    val profile = Developer().apply {
+        name = "Никита Трибля"
+        age = 16
+        nickname = "Tr3ble"
+    }
+    
+    val contactInfo = ContactInfo().apply {
+        email = "tr3ble@outlook.com"
+        telegram = "@y9tr3ble"
+    }
+```
 
-<h1 align="center"> Hi there, I'm Nikita</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Kotlin & Python developer from Russia</h3>
+## About
 
-<h3 align="left">Languages:</h3>
-
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-<h3 align="left">Telegram:</h3>
-<a href="https://t.me/Tr3ble"><img src="https://img.shields.io/website?color=9400d3&down_message=Tr3ble&label=Telegram&logo=telegram&style=for-the-badge&up_message=Tr3ble&url=https%3A%2F%2Ft.me%2Tr3ble"></a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr3bleee&theme=radical&layout=compact&langs_count=6)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tr3bleee&hide=prs,issues,contribs&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
-
-
+Full meta you can find [here](https://t.me/tr3blemeta/133)
