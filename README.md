@@ -1,17 +1,18 @@
-**Welcome to <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" width="65px"/> developer page**
+# Hello! 👋
+
+My name is Nikita Tr3ble and I'm a 16-year-old developer.
  
 ```kotlin
 fun aboutMe() {
-    val profile = Developer().apply {
-        name = "Никита Трибля"
-        age = 16
-        nickname = "Tr3ble"
-    }
-    
-    val contactInfo = ContactInfo().apply {
-        email = "tr3ble@outlook.com"
-        telegram = "@y9tr3ble"
-    }
+    val profile = Developer()
+    profile.name = "Nikita Triblya"
+    profile.age = 0x10
+    profile.nickname = "Tr3ble"
+
+    val contactInfo = ContactInfo()
+    contactInfo.email = "tr3ble@outlook.com"
+    contactInfo.telegram = "@y9tr3ble"
+}
 ```
 
 ## About
