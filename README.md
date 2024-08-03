@@ -11,7 +11,7 @@ fun aboutMe() {
 
     val contactInfo = ContactInfo()
     contactInfo.email = "tr3ble@outlook.com"
-    contactInfo.telegram = "@y9tr3ble"
+    contactInfo.telegram = "@tr3ble"
 }
 ```
 
