@@ -15,10 +15,6 @@ fun aboutMe() {
 }
 ```
 
-## 🛠 My badge area
-
-![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)  ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![github](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white) ![idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![compose](https://img.shields.io/badge/Jetpack_Compose-02569B?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-
 
 ## About
 
