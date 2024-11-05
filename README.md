@@ -1,12 +1,12 @@
 # Hello! 👋
 
-My name is Nikita Tr3ble and I'm a 16-year-old developer.
+My name is Nikita Tr3ble and I'm a 17-year-old developer.
  
 ```kotlin
 fun aboutMe() {
     val profile = Developer()
     profile.name = "Nikita Triblya"
-    profile.age = 0x10
+    profile.age = 0x11
     profile.nickname = "Tr3ble"
 
     val contactInfo = ContactInfo()
