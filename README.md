@@ -2,17 +2,21 @@
 
 My name is Nikita Tr3ble and I'm a 17-year-old developer.
  
-```kotlin
-fun aboutMe() {
-    val profile = Developer()
-    profile.name = "Nikita Triblya"
-    profile.age = 0x11
-    profile.nickname = "Tr3ble"
-
-    val contactInfo = ContactInfo()
-    contactInfo.email = "tr3ble@outlook.com"
-    contactInfo.telegram = "@tr3ble"
+```TypeScript
+function aboutMe(): AboutMe {
+  return {
+    profile: {
+      name: "Nikita Triblya",
+      age: 17,
+      nickname: "Tr3ble",
+    },
+    contactInfo: {
+      email: "tr3ble@outlook.com",
+      telegram: "@tr3ble",
+    },
+  };
 }
+
 ```
 
 
