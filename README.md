@@ -18,8 +18,3 @@ function aboutMe(): AboutMe {
 }
 
 ```
-
-
-## About
-
-Full meta you can find [here](https://t.me/tr3blemeta/133)
