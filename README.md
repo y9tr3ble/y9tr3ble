@@ -36,5 +36,5 @@ Full-stack craftsman from St. Petersburg, turning ideas into polished code.
 
 ## 🌱 Always Exploring
 
-- 🦀 **New Frontiers**: Rust
+- 🦀 **New Frontiers**: [Rust](https://растпобеда.рф)
 
