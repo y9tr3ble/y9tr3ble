@@ -1,6 +1,7 @@
 # Nikita
 
 Full‑stack developer from St. Petersburg.
+Let's talk more in [Telegram](https://t.me/tr3ble)
 
 ---
 
